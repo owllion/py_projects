@@ -1,5 +1,5 @@
 
-import random ; 
+import random 
 from words import word_list
 from stages import stages
 lives = 6
