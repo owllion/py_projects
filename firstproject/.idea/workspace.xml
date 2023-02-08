@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48b75b97-ce62-4efe-873b-c0d452c592c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../API/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API/archive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSV/new_data.csc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSV/squirrel.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSV/squirrel_fur_color.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/firstproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstproject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../API/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSV/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CSV/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +23,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/python_projects/firstproject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python_projects/firstproject&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
