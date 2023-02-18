@@ -2,3 +2,4 @@
  
  - Hangman
  - Caesar cipher
+ - HigherLowerGame
